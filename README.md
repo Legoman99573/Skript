@@ -33,6 +33,8 @@ harder than it sounds to you; in other cases, no one has time to take look at it
 If your having a aliases issue please report that
 [here](https://github.com/tim740/skAliases/issues) instead.
 
+Due to several issues with Craftbukkit lately, your server will shut down with an error. We recommend using **PaperSpigot**, but other forms of spigot should work as well, but isnt recommended.
+
 ## A Note About Addons
 I cannot provide support for third-party addons of Skript. If you encounter issues
 with them, contact the author of that addon. Also, when reporting issues which seem
